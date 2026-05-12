@@ -13,12 +13,12 @@ Currently working as a Senior Frontend Developer at Infosys, where I contribute 
 ### Frontend
 - React.js
 - Angular
-- Next.js
 - TypeScript
 - JavaScript (ES6+)
 - HTML5
 - CSS3
 - Tailwind CSS
+- Next.js
 
 ### State Management & APIs
 - Redux
@@ -63,18 +63,20 @@ Currently working as a Senior Frontend Developer at Infosys, where I contribute 
 
 ## 🌟 Featured Projects
 
-### SaaS Analytics Dashboard
-Modern dashboard application with authentication, charts, reusable components, and responsive layouts.
+### Subaa Healthcare Platform
 
-**Tech Stack:** React • TypeScript • Tailwind • REST APIs
+Created an online application with a healthcare focus with the goal of using cutting-edge frontend technologies to improve user accessibility and speed up digital healthcare interactions.
 
-**Highlights**
-- Reusable UI component architecture
-- Optimized rendering performance
-- Responsive dashboard design
-- API integration and state management
+**Tech Stack:** React • Supabase • TypeScript • Bootstrap
 
-🔗 Live Demo: https://subaa.in/
+**Key Contributions**
+- Developed reusable and scalable React components
+- Integrated Supabase authentication and database services
+- Built responsive interfaces optimized for desktop and mobile devices
+- Improved application performance and maintainable frontend architecture
+- Collaborated on delivering intuitive and accessible healthcare workflows
+
+🔗 Live Application: https://subaa.in
 
 ---
 
