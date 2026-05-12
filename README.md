@@ -12,6 +12,7 @@ Currently working as a Senior Frontend Developer at Infosys, where I contribute 
 
 ### Frontend
 - React.js
+- Angular
 - Next.js
 - TypeScript
 - JavaScript (ES6+)
@@ -62,38 +63,7 @@ Modern dashboard application with authentication, charts, reusable components, a
 - Responsive dashboard design
 - API integration and state management
 
-🔗 Live Demo: https://your-demo-link.com  
-🔗 Repository: https://github.com/yourusername/project-name
-
----
-
-### Ecommerce Frontend
-A scalable ecommerce application inspired by modern online stores.
-
-**Tech Stack:** Next.js • TypeScript • Tailwind CSS
-
-**Features**
-- Product filtering and search
-- Shopping cart functionality
-- Responsive UI
-- SEO-friendly pages
-
-🔗 Live Demo: https://your-demo-link.com
-
----
-
-### Productivity / Kanban App
-Task management application focused on clean UX and real-time interactions.
-
-**Tech Stack:** React • Firebase • TypeScript
-
-**Features**
-- Drag & drop task management
-- Authentication
-- Real-time updates
-- Mobile responsive design
-
-🔗 Live Demo: https://your-demo-link.com
+🔗 Live Demo: https://subaa.in/
 
 ---
 
@@ -104,6 +74,8 @@ Task management application focused on clean UX and real-time interactions.
 - Accessibility (a11y)
 - Playwright & E2E testing
 - Performance optimization techniques
+- Claude architecture
+- AWS & AI
 
 ---
 
@@ -122,4 +94,5 @@ I’m interested in frontend and React developer opportunities across the Czech 
 
 ## ⚡ Fun Fact
 
-I genuinely enjoy solving frontend problems, improving user experience, and continuously learning modern web technologies. I believe great frontend development is not only about writing code — it’s about building experiences people enjoy using.
+I genuinely enjoy improving user experience, learning new web technologies, and fixing frontend problems. Creating user-friendly experiences is more important to great frontend development than simply writing code, in my opinion.
+
