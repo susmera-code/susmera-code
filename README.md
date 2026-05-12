@@ -115,9 +115,8 @@ I’m interested in frontend and React developer opportunities across the Czech 
 
 ## 📫 Connect With Me
 
-- LinkedIn: <YOUR_LINKEDIN_URL>
-- Portfolio: <YOUR_PORTFOLIO_URL>
-- Email: susmera.1995@gmail.com
+- LinkedIn: https://www.linkedin.com/in/susmera-n-a-9bbb0a157/
+- Portfolio: https://susmera-code.github.io/Portfolio/
 
 ---
 
