@@ -1,8 +1,8 @@
 # Hi, I'm Susmera 👋
 
-Frontend Developer based in Brno, Czech Republic 🇨🇿
+Frontend Developer based in Brno, Czech Republic.
 
-I specialize in building modern, scalable, and user-focused web applications using React, TypeScript, and modern frontend technologies. With 6+ years of professional experience, I enjoy turning complex business requirements into clean, intuitive, and high-performing user experiences.
+I specialize in building modern, scalable, and user-focused web applications using React, TypeScript, and modern frontend technologies. With 7+ years of professional experience, I enjoy turning complex business requirements into clean, intuitive, and high-performing user experiences.
 
 Currently working as a Senior Frontend Developer at Infosys, where I contribute to enterprise-level applications, reusable UI systems, and performance-focused frontend solutions in Agile environments.
 
@@ -36,7 +36,18 @@ Currently working as a Senior Frontend Developer at Infosys, where I contribute 
 - Agile / Scrum
 - Responsive Design
 - Cross-browser Compatibility
+- Bitbucket
+- Confluence
+- Storybook
+- Webpack
+- Vercel
+- Figma
 
+### AI-assisted development: 
+- Claude
+- ChatGPT
+- GitHub Copilot
+  
 ---
 
 ## 💼 What I Focus On
