@@ -53,7 +53,7 @@ Currently working as a Senior Frontend Developer at Infosys, where I contribute 
 ## 🏆 Certifications:
 
 - **Claude Certified Architect-Foundations - Issued by Anthropic (2026)**
-  https://verify.skilljar.com/c/kfiy3w52trpd
+  ./certificates/claude-certified-architect-foundations.pdf
 - **Claude Code in Action - Anthropic**
   https://verify.skilljar.com/c/nws3tuc4yp6h
 - **Building with the Claude API - Anthropic**
