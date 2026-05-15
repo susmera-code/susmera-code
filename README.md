@@ -47,7 +47,19 @@ Currently working as a Senior Frontend Developer at Infosys, where I contribute 
 - Claude
 - ChatGPT
 - GitHub Copilot
-  
+
+---
+
+## 🏆 Certifications:
+
+- **Claude Certified Architect-Foundations - Issued by Anthropic (2026)**
+  https://verify.skilljar.com/c/kfiy3w52trpd
+- **Claude Code in Action - Anthropic**
+  https://verify.skilljar.com/c/nws3tuc4yp6h
+- **Building with the Claude API - Anthropic**
+  https://verify.skilljar.com/c/q3drewnuqvqp
+- **React with TypeScript - Issued by Infosys**
+
 ---
 
 ## 💼 What I Focus On
