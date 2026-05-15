@@ -44,7 +44,7 @@ Currently working as a Senior Frontend Developer at Infosys, where I contribute 
 - Figma
 
 ### AI-assisted development: 
-- Claude
+- Claude | Claude Certified Architect-
 - ChatGPT
 - GitHub Copilot
 
