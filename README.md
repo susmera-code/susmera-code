@@ -54,10 +54,10 @@ Currently working as a Senior Frontend Developer at Infosys, where I contribute 
 
 - **Claude Certified Architect-Foundations - Issued by Anthropic (2026)**: 
   (https://github.com/susmera-code/Certificates/blob/main/Claude%20Certified%20Architect%20%E2%80%93%20Foundations%20Certification.pdf)
-- **Claude Code in Action - Anthropic**
-  https://verify.skilljar.com/c/nws3tuc4yp6h
-- **Building with the Claude API - Anthropic**
-  https://verify.skilljar.com/c/q3drewnuqvqp
+- **Claude Code in Action - Anthropic**: 
+  (https://github.com/susmera-code/Certificates/blob/main/Claude%20Code%20in%20Action.pdf)
+- **Building with the Claude API - Anthropic**: 
+  (https://github.com/susmera-code/Certificates/blob/main/Building%20with%20the%20Claude%20API.pdf)
 - **React with TypeScript - Issued by Infosys**
 
 ---
